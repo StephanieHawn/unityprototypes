@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{064798E6-123C-24BC-21AC-5DE6BF63DA8E}") = "gazeselection", "Assembly-CSharp.csproj", "{FF46A686-3526-CB89-C1D1-1E7A5874B057}"
+EndProject
+Project("{064798E6-123C-24BC-21AC-5DE6BF63DA8E}") = "gazeselection", "Assembly-CSharp-Editor.csproj", "{39BAED72-70C5-8884-E1E1-58CD427BB41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF46A686-3526-CB89-C1D1-1E7A5874B057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF46A686-3526-CB89-C1D1-1E7A5874B057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF46A686-3526-CB89-C1D1-1E7A5874B057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF46A686-3526-CB89-C1D1-1E7A5874B057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BAED72-70C5-8884-E1E1-58CD427BB41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BAED72-70C5-8884-E1E1-58CD427BB41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BAED72-70C5-8884-E1E1-58CD427BB41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BAED72-70C5-8884-E1E1-58CD427BB41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
